@@ -106,7 +106,7 @@ set LPORT 4444
 exploit
 ```
 
-![Session Open](images/4_session_open.png)
+![Session Open](session_open.png)
 
 ---
 
@@ -120,8 +120,8 @@ whoami
 dir
 ```
 
-![System Info](images/5_sysinfo.png)
-![Windows Shell](images/6_windows_shell.png)
+![System Info](sysinfo.png)
+![Windows Shell](windows_shell.png)
 
 ---
 
