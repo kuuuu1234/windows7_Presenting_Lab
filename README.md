@@ -122,7 +122,6 @@ dir
 
 ![System Info](sysinfo.png)
 ![get_uid](getuid.png)
-![Windows Shell](_windows_shell.png)
 
 ---
 
