@@ -58,8 +58,9 @@ Connectivity Test:
 ```bash
 ping 172.16.195.129
 ```
+<img width="1440" height="672" alt="_ping_test" src="https://github.com/user-attachments/assets/8fdd7799-7e54-413f-b615-316580c5fe71" />
 
-![Ping Test](images/1_ping_test.png)
+![Ping Test](_ping_test.png)
 
 ---
 
